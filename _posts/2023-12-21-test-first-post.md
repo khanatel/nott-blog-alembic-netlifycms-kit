@@ -1,6 +1,6 @@
 ---
 title: First Post
-layout: post
+layout: blogpost
 categories:
 - Test
 feature_image: "https://picsum.photos/2560/600?image=872"
