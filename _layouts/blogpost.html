@@ -1,2 +1,7 @@
-<h1>Layout : {{ page.layout }}</h1>
-<p>{{ page.date }} - Written by {{ page.author }}</p>
+---
+layout: default
+---
+<div class="hero">
+<h1 class="hero__header dark-orange">{{ site.title }}</h1>
+</div>
+{{ content }}
