@@ -38,8 +38,8 @@
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
-    <h1>Layout - Blog</h1>
-    
+    <h1>{{ page.layout }}</h1>
+
     {% include site-icons.svg %}
 
     {{ content }}
