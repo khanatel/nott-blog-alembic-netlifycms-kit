@@ -1,6 +1,6 @@
 ---
 title: Rolling Walker: A Fun and Easy Guide for Seniors
-layout: post
+layout: mypost
 categories:
 - Medical Supplies & Equipment
 feature_image: "https://picsum.photos/2560/600?image=872"
