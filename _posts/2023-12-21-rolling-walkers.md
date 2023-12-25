@@ -1,5 +1,5 @@
 ---
-title: Rolling Walker: A Fun and Easy Guide for Seniors
+title: Rolling Walker A Fun and Easy Guide for Seniors
 layout: mypost
 categories:
 - Medical Supplies & Equipment
